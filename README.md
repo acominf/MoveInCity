@@ -3,44 +3,37 @@
 ![En construcción](https://upload.wikimedia.org/wikipedia/commons/e/ef/En_construccion.jpg)
 
 ### Objetivo del juego/aplicación
-El objetivo del juego/aplicación es ...
+Aplicar los conocimientos adquiridos en la clase de programación orientada a objetos
 
 ### Descripción del juego/aplicación
-La descripción del juego/aplicación es ...
+el proyecto es un juego en el que un ciclista tiene que esquivar varios obstáculos, el jugador tiene 3 vidas, si choca contra alguno de los obstáculos, perderá una vida, cada que supere un obstáculo obtendrá 10 puntos, algunos personajes sueltan bombas que quitan toda la vida, CUIDADO!
 
 ### Clases principales y sus características
-1. Clase 1
-* caracteristica1
-* caracteristica2
-* caracteristica3
+1. Tablero
+* Muetra vidas
+* Muestra puntaje
 
-2. Clase 2
-* caracteristica1
-* caracteristica2
-* caracteristica3
+2. GameOver
+* Da mensaje de fin de juego
+* Detiene el programa cuando el jugador pierde
 
-3. Clase 3
-* caracteristica1
-* caracteristica2
-* caracteristica3
+3. Obstaculos
+* Contiene a los diferentes enemigos
 
-4. Clase 4
-* caracteristica1
-* caracteristica2
-* caracteristica3
+4. Personaje
+* Contiene al personaje
+* Asigna caracteristicas generales
 
-5. Clase 5
-* caracteristica1
-* caracteristica2
-* caracteristica3
+5. World
+* muetra calle
+* inicializa todos los personajes del juego
 
 ### Diagrama de clases
-![Diagrama de clases](url-del-diagrama.png)
+C:\Users\Lalin\Desktop\diagrama.png
 
 ### Autor(es)
 El autor(es) del proyecto son:
-- Nombre completo del autor 1 (@nombreUsuarioGitHub)
-- Nombre completo del autor 2 (@nombreUsuarioGitHub)
+Berrones Lopez Eduardo Miguel(EduardoBerrones)
 
 ### Materia(s)
 - Programación Orientada a Objetos
