@@ -32,8 +32,8 @@ el proyecto es un juego en el que un ciclista tiene que esquivar varios obstácu
 (http://imageshack.com/a/img922/3888/JaDQ7R.png)
 
 ### Autor(es)
-El autor(es) del proyecto son:
-Berrones Lopez Eduardo Miguel(EduardoBerrones)
+El autor(es) del proyecto es:
+- Berrones Lopez Eduardo Miguel(EduardoBerrones)
 
 ### Materia(s)
 - Programación Orientada a Objetos
@@ -42,9 +42,3 @@ Berrones Lopez Eduardo Miguel(EduardoBerrones)
 - 2016-2017/II
 
 ### Universidad Autónoma de San Luis Potosí, 2017
-
-### Markdown
-El contenido de esta página está escrito en un lenguaje de marcado sencillo llamado _Markdown_. **Para modificar el contenido de esta página se tiene que editar el archivo README.md del repositorio**. Para más detalles consulta la página de [Markdown para GitHub](https://guides.github.com/features/mastering-markdown/).
-
-### Temas de Jekyll
-El estilo y presentación de esta página utiliza el tema de Jekyll seleccionado en la configuración del repositorio. El nombre de este tema está almacenado en el archivo de configuración `_config.yml`. Para más información acerca de los temas de Jekyll soportados por GitHub [haz click en este enlace](https://pages.github.com/themes/).
