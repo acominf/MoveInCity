@@ -10,7 +10,7 @@ el proyecto es un juego en el que un ciclista tiene que esquivar varios obstácu
 
 ### Clases principales y sus características
 1. Tablero
-* Muetra vidas
+* Muestra vidas
 * Muestra puntaje
 
 2. GameOver
@@ -25,7 +25,7 @@ el proyecto es un juego en el que un ciclista tiene que esquivar varios obstácu
 * Asigna caracteristicas generales
 
 5. World
-* muetra calle
+* Muestra calle
 * inicializa todos los personajes del juego
 
 ### Diagrama de clases
