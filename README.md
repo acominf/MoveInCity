@@ -1,6 +1,6 @@
 # MoveInCity
 
-![En construcción](https://upload.wikimedia.org/wikipedia/commons/e/ef/En_construccion.jpg)
+![En construcción](https://imageshack.us/i/pnYuXpQrp.png)
 
 ### Objetivo del juego/aplicación
 Aplicar los conocimientos adquiridos en la clase de programación orientada a objetos
@@ -29,7 +29,7 @@ el proyecto es un juego en el que un ciclista tiene que esquivar varios obstácu
 * inicializa todos los personajes del juego
 
 ### Diagrama de clases
-C:\Users\Lalin\Desktop\diagrama.png
+(https://imageshack.us/i/pmJaDQ7Rp.png)
 
 ### Autor(es)
 El autor(es) del proyecto son:
