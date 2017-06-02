@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Obstaculos
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Obstaculos\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=velocidad
+comment1.target=void\ actcarro(int)
+comment1.text=\r\n\ Este\ metodo\ inicializa\ el\ actor\ carro\ asigna\ su\ velocidad\ y\ manda\ a\ realizar\ las\ acciones\ correspondientes\ a\ un\ obstaculo\r\n
+comment2.params=velocidad
+comment2.target=void\ actasaltante(int)
+comment2.text=\r\n\ Este\ metodo\ inicializa\ el\ actor\ asaltante\ asigna\ su\ velocidad\ y\ manda\ a\ realizar\ las\ acciones\ correspondientes\ a\ un\ obstaculo\r\n
+comment3.params=velocidad
+comment3.target=void\ actroca(int)
+comment3.text=\r\n\ Este\ metodo\ inicializa\ el\ actor\ roca\ asigna\ su\ velocidad\ y\ manda\ a\ realizar\ las\ acciones\ correspondientes\ a\ un\ obstaculo\r\n
+numComments=4

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Tablero
+comment0.text=\r\n\ Esta\ clase\ dise\u00F1a\ todo\ el\ tablero\ que\ muestra\ puntos\ y\ vidas\r\n
+comment1.params=c\ msj
+comment1.target=Tablero(int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ dibuja()
+comment2.text=\r\n\ Esta\ funcion\ borra\ el\ tablero\ y\ despues\ vuelve\ a\ escribirlo\ con\ los\ valores\ actuales\r\n
+comment3.params=
+comment3.target=void\ aumentar()
+comment3.text=\r\n\ Esta\ funcion\ aumenta\ la\ puntuacion\r\n
+comment4.params=
+comment4.target=void\ disminuir()
+comment4.text=\r\n\ Esta\ funcion\ disminuye\ las\ vidas\ del\ jugador\r\n
+comment5.params=
+comment5.target=int\ obtenerValor()
+comment5.text=\r\n\ Esta\ funcion\ regresa\ las\ vidas\ para\ saber\ si\ el\ jugador\ ya\ ha\ perdido\ o\ aun\ no\r\n
+numComments=6

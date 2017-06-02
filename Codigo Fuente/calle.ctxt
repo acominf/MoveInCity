@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=calle
+comment0.text=\r\n\ W\r\n
+comment1.params=
+comment1.target=calle()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ calle.\r\n
+comment2.params=
+comment2.target=void\ prepare()
+comment2.text=\r\n\ prepara\ el\ mundo,\ manda\ inicializar\ al\ jugador,\ lo\ coloca\ en\ el\ mundo\ y\ manda\ llamar\ los\ metodos\ para\ inicializar\ a\ los\ demas\ actores\r\n
+comment3.params=num
+comment3.target=void\ creacarro(int)
+comment3.text=\r\n\ Este\ metodo\ inicializa\ el\ actor\ carro\r\n
+comment4.params=num
+comment4.target=void\ crearoca(int)
+comment4.text=\r\n\ Este\ metodo\ inicializa\ el\ actor\ roca\r\n
+comment5.params=num
+comment5.target=void\ creaasaltante(int)
+comment5.text=\r\n\ Este\ metodo\ inicializa\ el\ actor\ asaltante\r\n
+numComments=6
